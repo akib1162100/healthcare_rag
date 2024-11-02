@@ -1,0 +1,826 @@
+"GalCV";"NGalNm";"FGalNm";"Amb";"Hosp"
+"00001";"inj./inf. oploss. (conc.) i.v. [amp.]";"sol. inj./perf. à diluer i.v. [amp.]";true;false
+"00002";"inj. oploss./inf. oploss. (conc.) i.thec./epidur./p.neur. [amp., locoregionale infiltr.]";"sol. inj./sol. perf. à diluer i.théc./p.dural/p.neur. [amp., infiltr. locorégionale]";true;false
+"00003";"harde caps. geregul. afgifte Retard";"gél. lib. modif. Retard";true;false
+"00004";"filmomh. tabl.";"compr. pellic.";true;false
+"00005";"gel";"gel";true;false
+"00006";"gel (pomp)";"gel (pompe)";true;false
+"00007";"tabl.";"compr.";true;false
+"00008";"inf. oploss. (conc.) i.v. [flac.]";"sol. perf. à diluer i.v. [flac.]";true;false
+"00009";"inj. oploss. i.v./endotrach./i.oss. [voorgev. spuit]";"sol. inj. i.v./endotrach./i.oss. [ser. préremplie]";true;false
+"00010";"inj. oploss. (pdr. + solv.) i.v. [flac. + voorgev. spuit]";"sol. inj. (pdr + solv.) i.v. [flac. + ser. préremplie]";true;false
+"00011";"ocul. druppels susp. S.";"collyre susp. S.";true;false
+"00012";"harde caps.";"gél.";true;false
+"00013";"tabl. Wekelijks";"compr. Hebdomadaire";true;false
+"00014";"inj./inf. oploss. i.m./i.v./s.c. [amp.]";"sol. inj./perf. i.m./i.v./s.c. [amp.]";true;false
+"00015";"siroop susp. Munt";"sirop susp. Menthe";true;false
+"00016";"siroop susp.";"sirop susp.";true;false
+"00017";"siroop susp. Baby";"sirop susp. Baby";true;false
+"00018";"inj. oploss. i.m./i.v. [amp.]";"sol. inj. i.m./i.v. [amp.]";true;false
+"00019";"tabl. (deelb.)";"compr. (séc.)";true;false
+"00020";"gran. (zakjes)";"gran. (sachet)";true;false
+"00021";"inj. oploss. (pdr. + solv.) i.v. [2x flac., Baxject III]";"sol. inj. (pdr + solv.) i.v. [2x flac., Baxject III]";true;false
+"00022";"tabl. verl. afgifte Retard";"compr. lib. prol. Retard";true;false
+"00023";"medic. nagellak";"vernis à ongles médic.";true;false
+"00024";"zachte caps.";"caps. molle";true;false
+"00025";"druppels oploss.";"gtts sol.";true;false
+"00026";"orofar. zuigtabl. Munt";"past. orophar. Menthe";true;false
+"00027";"siroop susp. (pdr.)";"sirop susp. (pdr)";true;false
+"00028";"harde caps. Forte";"gél. Forte";true;false
+"00029";"tabl. (deelb.) Besilate";"compr. (séc.) Besilate";true;false
+"00030";"disp. tabl. (deelb.)";"compr. disp. (séc.)";true;false
+"00031";"oploss. (zakjes) Unidose";"sol. (sachet) Unidose";true;false
+"00032";"inf. oploss. (pdr.) i.v. [flac.]";"sol. perf. (pdr) i.v. [flac.]";true;false
+"00033";"susp. (pdr., zakjes)";"susp. (pdr, sachet)";true;false
+"00034";"inj./inf. oploss. (pdr. + solv.) i.v. [2x flac.]";"sol. inj./perf. (pdr + solv.) i.v. [2x flac.]";true;false
+"00035";"inj. oploss. i.v. [flac.]";"sol. inj. i.v. [flac.]";true;false
+"00036";"gel (alc.) Viscorub";"gel (alc.) Viscorub";true;false
+"00037";"inj. oploss. i.v. [amp.]";"sol. inj. i.v. [amp.]";true;false
+"00038";"inj. oploss. i.m. [flac.]";"sol. inj. i.m. [flac.]";true;false
+"00039";"inj. oploss. (pdr. + solv.) i.v. [2x flac.]";"sol. inj. (pdr + solv.) i.v. [2x flac.]";true;false
+"00040";"omh. tabl.";"compr. enr.";true;false
+"00041";"oploss. (conc.)";"sol. à diluer";true;false
+"00042";"inj./inf. oploss. (pdr.) i.m./i.v. [flac.]";"sol. inj./perf. (pdr) i.m./i.v. [flac.]";true;false
+"00043";"filmomh. tabl. (deelb.)";"compr. pellic. (séc.)";true;false
+"00044";"maagsapresist. harde caps.";"gél. gastro-résist.";true;false
+"00045";"filmomh. tabl. Mitis";"compr. pellic. Mitis";true;false
+"00046";"inj./inf. oploss. i.v. [amp.]";"sol. inj./perf. i.v. [amp.]";true;false
+"00047";"inj. oploss. i.v./s.c. [amp.]";"sol. inj. i.v./s.c. [amp.]";true;false
+"00048";"crème";"crème";true;false
+"00049";"inj. susp. verl. afgifte i.m. [voorgev. spuit]";"susp. inj. lib. prol. i.m. [ser. préremplie]";true;false
+"00050";"auric./cut./nas./ocul. druppels susp. (pdr. + solv.)";"gtts susp. (pdr + solv.) auric./cut./nas./opht.";true;false
+"00051";"zalf";"pommade";true;false
+"00052";"inj./inf. oploss. i.thec. [amp.]";"sol. inj./perf. i.théc. [amp.]";true;false
+"00053";"or./rect. susp.";"susp. or./rect.";true;false
+"00054";"susp. (conc.) Scanner";"susp. à diluer Scanner";true;false
+"00055";"orofar. spray oploss.";"sol. spray orophar.";true;false
+"00056";"tabl. verl. afgifte";"compr. lib. prol.";true;false
+"00057";"inj./inf. oploss. (pdr. + solv.) i.v. [flac. + amp.]";"sol. inj./perf. (pdr + solv.) i.v. [flac. + amp.]";true;false
+"00058";"cut. oploss.";"sol. cut.";true;false
+"00059";"maagsapresist. tabl.";"compr. gastro-résist.";true;false
+"00060";"filmomh. tabl. (deelb. in 4)";"compr. pellic. (séc. en 4)";true;false
+"00061";"zetpil";"supp.";true;false
+"00062";"vernevelsusp. (unidose)";"susp. inhal. nébul. (unidose)";true;false
+"00063";"bruisgran. (zakjes) Orange";"gran. efferv. (sachet) Orange";true;false
+"00064";"ocul. druppels oploss.";"collyre sol.";true;false
+"00065";"inj. oploss. (pdr.) i.m./i.derm. [flac.]";"sol. inj. (pdr) i.m./i.derm. [flac.]";true;false
+"00066";"inj. oploss. (pdr.) i.m. [flac.]";"sol. inj. (pdr) i.m. [flac.]";true;false
+"00067";"inj. oploss. epidur./p.neur. [flac., locoregionale infiltr.]";"sol. inj. p.dural/p.neur. [flac., infiltr. locorégionale]";true;false
+"00068";"subling. tabl.";"compr. subling.";true;false
+"00069";"inhalatiepdr. (patr.) [Novolizer]";"poudre inhal. (cart.) [Novolizer]";true;false
+"00070";"siroop oploss. (zonder suiker) Volw.";"sirop sol. (sans sucre) Adulte";true;false
+"00071";"inj. oploss. i.ocul. [flac.]";"sol. inj. i.ocul. [flac.]";true;false
+"00072";"ocul. gel";"gel opht.";true;false
+"00073";"inj./inf. oploss. i.v. Onco-Tain [flac.]";"sol. inj./perf. i.v. Onco-Tain [flac.]";true;false
+"00074";"inf. oploss. i.v. [flac.]";"sol. perf. i.v. [flac.]";true;false
+"00075";"siroop oploss. (zonder suiker) Zonder Suiker";"sirop sol. (sans sucre) Sans Sucre";true;false
+"00076";"0,5% - 1/200 000 inj. oploss. epidur./p.neur. [flac., locoregionale infiltr.]";"0,5% - 1/200 000 sol. inj. p.dural/p.neur. [flac., infiltr. locorégionale]";true;false
+"00077";"inj. susp. i.m. [voorgev. spuit]";"susp. inj. i.m. [ser. préremplie]";true;false
+"00078";"inj. oploss. s.c. [voorgev. spuit]";"sol. inj. s.c. [ser. préremplie]";true;false
+"00079";"subling. lyofilisaat";"lyophilisat subling.";true;false
+"00080";"inj. oploss. s.c. [voorgev. pen]";"sol. inj. s.c. [stylo prérempli]";true;false
+"00081";"inf. oploss. (pdr. + solv.) i.v. [2x flac., thermostabiele formule]";"sol. perf. (pdr + solv.) i.v. [2x flac., formule thermostable]";true;false
+"00082";"inj./inf. oploss. s.c. PumpCart [patr.]";"sol. inj./perf. s.c. PumpCart [cart.]";true;false
+"00083";"inf. oploss. conc. (pdr.) i.v. [flac.]";"sol. perf. à diluer (pdr) i.v. [flac.]";true;false
+"00084";"inf. oploss. (conc.) i.v. [amp.]";"sol. perf. à diluer i.v. [amp.]";true;false
+"00165";"verneveloploss. [amp.]";"sol. inhal. nébul. [amp.]";true;false
+"00085";"inf. oploss. (conc.) i.v. [amp., Mini-Plasco]";"sol. perf. à diluer i.v. [amp., Mini-Plasco]";true;false
+"00086";"inj. oploss. (pdr.) i.m./i.v. [flac.]";"sol. inj. (pdr) i.m./i.v. [flac.]";true;false
+"00087";"inf. oploss. epidur./p.neur. [zak, locoregionale infiltr.]";"sol. perf. p.dural/p.neur. [sac, infiltr. locorégionale]";true;false
+"00088";"inj./instill. oploss. i.v./i.arter./i.card./i.duct. [flac.]";"sol. inj./instill. i.v./i.artér./i.canal./i.card. [flac.]";true;false
+"00089";"inj./instill. oploss. i.v./i.arter./i.card./i.duct./i.uter. [flac.]";"sol. inj./instill. i.v./i.artér./i.canal./i.card./i.utér. [flac.]";true;false
+"00090";"inj./instill. oploss. i.v./i.thec./i.arter./i.duct. [flac.]";"sol. inj./instill. i.v./i.théc./i.artér./i.canal. [flac.]";true;false
+"00091";"inj./inf./instill. oploss. i.v./i.arter./i.uter. [flac.]";"sol. inj./perf./instill. i.v./i.artér./i.utér. [flac.]";true;false
+"00092";"inj. oploss. s.c. [flac.]";"sol. inj. s.c. [flac.]";true;false
+"00093";"inj./instill. oploss. i.v./i.artic./i.thec./i.arter./i.uter./or./rect. [flac.]";"sol. inj./instill. i.v./i.artic./i.théc./i.artér./i.utér./or./rect. [flac.]";true;false
+"00094";"inj. oploss. i.v./i.arter./i.card. [flac.]";"sol. inj. i.v./i.artér./i.card. [flac.]";true;false
+"00095";"inj. susp. i.m./s.c. [voorgev. spuit]";"susp. inj. i.m./s.c. [ser. préremplie]";true;false
+"00096";"siroop oploss.";"sirop sol.";true;false
+"00097";"inf. oploss. epidur. [zak]";"sol. perf. p.dural [sac]";true;false
+"00098";"orofar. zuigtabl.";"past. orophar.";true;false
+"00099";"nas. spray oploss.";"sol. spray nas.";true;false
+"00100";"40 + 10 mg / 1 ml inj. susp. verl. afgifte i.artic./i.laes./i.burs./p.artic. [flac.]";"40 + 10 mg / 1 ml susp. inj. lib. prol. i.artic./i.lés./i.burs./p.artic. [flac.]";true;false
+"00101";"oploss. (unidose)";"sol. (unidose)";true;false
+"00102";"inj. oploss. (pdr.) i.camer. [flac.]";"sol. inj. (pdr) i.camér. [flac.]";true;false
+"00103";"susp.";"susp.";true;false
+"00104";"vag. gel";"gel vag.";true;false
+"00105";"inj./inf./instill. oploss. i.v./i.arter./i.card. [flac.]";"sol. inj./perf./instill. i.v./i.artér./i.card. [flac.]";true;false
+"00106";"inj. susp. i.m. [flac.]";"susp. inj. i.m. [flac.]";true;false
+"00107";"subling. glob.";"glob. subling.";true;false
+"00108";"subling. glob. Junior";"glob. subling. Junior";true;false
+"00109";"inj./instill. oploss. i.v./i.artic./i.arter./i.card./i.uter. [flac.]";"sol. inj./instill. i.v./i.artic./i.artér./i.card./i.utér. [flac.]";true;false
+"00110";"inj./inf. oploss. i.v./s.c. [flac.]";"sol. inj./perf. i.v./s.c. [flac.]";true;false
+"00111";"inj. oploss. s.c. FlexTouch [voorgev. pen]";"sol. inj. s.c. FlexTouch [stylo prérempli]";true;false
+"00112";"siroop susp. (gran.)";"sirop susp. (gran.)";true;false
+"00113";"inj./inf. oploss. i.v. [flac.]";"sol. inj./perf. i.v. [flac.]";true;false
+"00114";"inj. oploss. i.m./s.c. [amp.]";"sol. inj. i.m./s.c. [amp.]";true;false
+"00115";"inj. oploss. i.v./i.arter./i.card. [zak]";"sol. inj. i.v./i.artér./i.card. [sac]";true;false
+"00116";"bucc./or. druppels oploss.";"gtts sol. bucc./or.";true;false
+"00117";"inj. oploss. i.v. [voorgev. spuit]";"sol. inj. i.v. [ser. préremplie]";true;false
+"00118";"nas. spray susp.";"susp. spray nas.";true;false
+"00119";"inj./inf. oploss. i.v./epidur. [amp.]";"sol. inj./perf. i.v./p.dural [amp.]";true;false
+"00120";"inhalatieoploss. (patr.) Respimat";"sol. inhal. (cart.) Respimat";true;false
+"00121";"zachte kauwcaps. Kinderen";"caps. molle à mâcher Enfants";true;false
+"00122";"gompastille";"gomme";true;false
+"00123";"oromuc. spray oploss. Fruit & Mint";"sol. spray oromuq. Fruit & Mint";true;false
+"00124";"cut. oploss. (unidose)";"sol. (unidose) cut.";true;false
+"00125";"transderm. gel (doseerpomp)";"gel transderm. (pompe doseuse)";true;false
+"00126";"transderm. lok. medic. pleister";"emplâtre médic. transderm. local";true;false
+"00127";"inj. oploss. (pdr. + solv.) i.m./s.c. [flac. + voorgev. spuit]";"sol. inj. (pdr + solv.) i.m./s.c. [flac. + ser. préremplie]";true;false
+"00128";"oromuc. spoeling";"bain de bouche oromuq.";true;false
+"00129";"orofar. spray oploss. Menthol";"sol. spray orophar. Menthol";true;false
+"00130";"cut. oploss. (alc.) Alcoholicus";"sol. cut. (alc.) Alcoholicus";true;false
+"00131";"orofar. spray oploss. Lemon";"sol. spray orophar. Lemon";true;false
+"00132";"orofar. zuigtabl. Menthol";"compr. à sucer orophar. Menthol";true;false
+"00133";"dent./gingiv./oromuc. gel";"gel dent./gingiv./oromuq.";true;false
+"00134";"orofar. zuigtabl. Lemon";"compr. à sucer orophar. Lemon";true;false
+"00135";"ocul. zalf [zonder bew.]";"pommade opht. [sans cons.]";true;false
+"00136";"oploss.";"sol.";true;false
+"00137";"zeep";"savon";true;false
+"00138";"cut. oploss. (conc.)";"sol. à diluer cut.";true;false
+"00139";"auric./ocul. druppels oploss.";"gtts sol. auric./opht.";true;false
+"00140";"vag. crème";"crème vag.";true;false
+"00141";"inj. oploss. s.c. [patr.] voor SurePal Pen 5";"sol. inj. s.c. [cart.] pour SurePal Pen 5";true;false
+"00142";"inj. oploss. s.c. [patr.] voor SurePal Pen 10";"sol. inj. s.c. [cart.] pour SurePal Pen 10";true;false
+"00143";"siroop susp. (gran.) Kids";"sirop susp. (gran.) Kids";true;false
+"00144";"oploss. (gran.)";"sol. (gran.)";true;false
+"00145";"inj./inf. oploss. i.m./i.v. [amp.]";"sol. inj./perf. i.m./i.v. [amp.]";true;false
+"00146";"filmomh. tabl. Forte";"compr. pellic. Forte";true;false
+"00147";"ocul. druppels oploss. [zonder bew.]";"collyre sol. [sans cons.]";true;false
+"00148";"shampoo";"shampooing";true;false
+"00149";"ocul. zalf";"pommade opht.";true;false
+"00150";"tabl. (deelb. in 4)";"compr. (séc. en 4)";true;false
+"00151";"inj./inf. oploss. i.v./s.c./i.thec. Cytosafe [flac.]";"sol. inj./perf. i.v./s.c./i.théc. Cytosafe [flac.]";true;false
+"00152";"inj./inf. oploss. (conc.) i.v. Cytosafe [flac.]";"sol. inj./perf. à diluer i.v. Cytosafe [flac.]";true;false
+"00153";"inj./inf. oploss. (pdr.) i.v. [flac.]";"sol. inj./perf. (pdr) i.v. [flac.]";true;false
+"00154";"inj. oploss. i.v./s.c. [voorgev. spuit]";"sol. inj. i.v./s.c. [ser. préremplie]";true;false
+"00155";"inj. oploss. (pdr.) i.v. [amp.]";"sol. inj. (pdr) i.v. [amp.]";true;false
+"00156";"inj./inf. oploss. i.v./s.c. [amp.]";"sol. inj./perf. i.v./s.c. [amp.]";true;false
+"00157";"ocul. druppels oploss. (unidose) [zonder bew.]";"collyre sol. (unidose) [sans cons.]";true;false
+"00158";"dent. gel";"gel dent.";true;false
+"00159";"inj. oploss. i.m./i.v./s.c. [amp.]";"sol. inj. i.m./i.v./s.c. [amp.]";true;false
+"00160";"ocul. druppels susp.";"collyre susp.";true;false
+"00161";"cut. emuls.";"émuls. cut.";true;false
+"00162";"inf. oploss. i.v. [amp.]";"sol. perf. i.v. [amp.]";true;false
+"00163";"cut. schuim";"mousse cut.";true;false
+"00164";"orodisp. tabl. Instant";"compr. orodisp. Instant";true;false
+"00166";"ocul. druppels oploss. Ocumeter Plus";"collyre sol. Ocumeter Plus";true;false
+"00167";"inf./instill. oploss. (conc.) i.v./i.vesic. [flac.]";"sol. perf./instill. à diluer i.v./i.vésic. [flac.]";true;false
+"00168";"orodisp. tabl.";"compr. orodisp.";true;false
+"00169";"inj. oploss./inj. oploss. (conc.) i.m./i.v./endotrach. [amp.]";"sol. inj./sol. inj. à diluer i.m./i.v./endotrach. [amp.]";true;false
+"00170";"transderm. pleister TTS";"dispositif transderm. TTS";true;false
+"00171";"vag. tabl.";"compr. vag.";true;false
+"00172";"ovule";"ovule";true;false
+"00173";"inf. oploss. (pdr. + solv.) i.v. [flac. + voorgev. spuit]";"sol. perf. (pdr + solv.) i.v. [flac. + ser. préremplie]";true;false
+"00174";"harde caps. verl. afgifte";"gél. lib. prol.";true;false
+"00175";"transderm. gel";"gel transderm.";true;false
+"00176";"harde caps. Lidose";"gél. Lidose";true;false
+"00177";"transderm. pleister";"dispositif transderm.";true;false
+"00178";"transderm. pleister Matrix";"dispositif transderm. Matrix";true;false
+"00179";"tabl. (deelb.) Tabs";"compr. (séc.) Tabs";true;false
+"00180";"inj./inf. oploss. i.m./i.v. [flac.]";"sol. inj./perf. i.m./i.v. [flac.]";true;false
+"00181";"oploss. (gran., zakjes)";"sol. (gran., sachet)";true;false
+"00182";"inj. oploss. s.c. [patr.] voor Puregon Pen";"sol. inj. s.c. [cart.] pour Puregon Pen";true;false
+"00183";"inf. oploss. (conc.)/inf. oploss. i.v. [flac.]";"sol. perf. à diluer/sol. perf. i.v. [flac.]";true;false
+"00184";"inj. susp. i.m./s.c. Junior [voorgev. spuit]";"susp. inj. i.m./s.c. Junior [ser. préremplie]";true;false
+"00185";"s.c. implantaat [implantaatinjector]";"implant s.c. [pistolet pour implant]";true;false
+"00186";"zetpil Kinderen";"supp. Enfants";true;false
+"00187";"inj. oploss. (pdr.) i.v./s.c. [flac.]";"sol. inj. (pdr) i.v./s.c. [flac.]";true;false
+"00188";"inj. susp. i.m./s.c. Paediatric [voorgev. spuit]";"susp. inj. i.m./s.c. Enfant [ser. préremplie]";true;false
+"00189";"inj. susp. i.m./s.c. Adult [voorgev. spuit]";"susp. inj. i.m./s.c. Adulte [ser. préremplie]";true;false
+"00190";"zachte caps. Fastcaps";"caps. molle Fastcaps";true;false
+"00191";"filmomh. tabl. Fasttabs";"compr. pellic. Fasttabs";true;false
+"00192";"omh. tabl. (deelb.)";"compr. enr. (séc.)";true;false
+"00193";"transderm. lok. gel";"gel transderm. local";true;false
+"00194";"inj. susp. s.c. Penfill [patr.]";"susp. inj. s.c. Penfill [cart.]";true;false
+"00195";"inj. susp. s.c. FlexPen [voorgev. pen]";"susp. inj. s.c. FlexPen [stylo prérempli]";true;false
+"00196";"inj. oploss. s.c. FlexPen [voorgev. pen]";"sol. inj. s.c. FlexPen [stylo prérempli]";true;false
+"00197";"inj. oploss. (pdr.) i.v. [flac.]";"sol. inj. (pdr) i.v. [flac.]";true;false
+"00198";"inj. oploss. s.c. Penfill [patr.]";"sol. inj. s.c. Penfill [cart.]";true;false
+"00199";"inj. oploss. s.c. Solostar [voorgev. pen]";"sol. inj. s.c. Solostar [stylo prérempli]";true;false
+"00200";"inj. oploss. s.c. [patr.]";"sol. inj. s.c. [cart.]";true;false
+"00201";"inj. oploss. i.v./s.c. [flac.]";"sol. inj. i.v./s.c. [flac.]";true;false
+"00202";"inj./inf. oploss. i.m./i.v./s.c. [flac.]";"sol. inj./perf. i.m./i.v./s.c. [flac.]";true;false
+"00203";"inj. oploss. s.c. Cartridge [patr.]";"sol. inj. s.c. Cartridge [cart.]";true;false
+"00204";"inj. oploss. s.c. Kwikpen [voorgev. pen]";"sol. inj. s.c. Kwikpen [stylo prérempli]";true;false
+"00205";"inj. susp. s.c. [patr.]";"susp. inj. s.c. [cart.]";true;false
+"00206";"inj. susp. s.c. Kwikpen [voorgev. pen]";"susp. inj. s.c. Kwikpen [stylo prérempli]";true;false
+"00207";"gran.";"gran.";true;false
+"00208";"inj./instill. oploss. i.v./i.arter./i.card./i.cavern./i.duct./i.uter./urethr. [flac.]";"sol. inj./instill. i.v./i.artér./i.canal./i.card./i.cavern./i.utér./urétr. [flac.]";true;false
+"00209";"cut. spray oploss. (alc.) Gekleurd";"sol. spray cut. (alc.) Coloré";true;false
+"00210";"or./rect. oploss. Gastro";"sol. or./rect. Gastro";true;false
+"00211";"oploss. (pdr., zakjes) Junior Neutral";"sol. (pdr, sachet) Junior Neutral";true;false
+"00212";"oploss. (pdr., zakjes) Junior Aroma";"sol. (pdr, sachet) Junior Arome";true;false
+"00213";"oploss. (pdr., zakjes) Natuur";"sol. (pdr, sachet) Nature";true;false
+"00214";"oploss. (pdr., zakjes) Sinaasappel";"sol. (pdr, sachet) Orange";true;false
+"00215";"oploss. (pdr., zakjes) Chocoladesmaak";"sol. (pdr, sachet) Goût chocolat";true;false
+"00216";"oploss. (pdr., zakjes) Neutral";"sol. (pdr, sachet) Neutral";true;false
+"00217";"oploss. (pdr., zakjes)";"sol. (pdr, sachet)";true;false
+"00218";"cut. spray oploss.";"sol. spray cut.";true;false
+"00219";"inj. oploss. i.m. [amp.]";"sol. inj. i.m. [amp.]";true;false
+"00220";"kauw-/disp. tabl.";"compr. à croquer/disp.";true;false
+"00221";"inj. oploss. i.v./i.arter. [flac.]";"sol. inj. i.v./i.artér. [flac.]";true;false
+"00222";"cut. oploss. (alc.) Hydroalcoholische";"sol. cut. (alc.) Hydroalcoolique";true;false
+"00223";"disp. tabl.";"compr. disp.";true;false
+"00224";"inj. oploss. s.c. Autogel [voorgev. spuit]";"sol. inj. s.c. Autogel [ser. préremplie]";true;false
+"00225";"kauwtabl.";"compr. à croquer";true;false
+"00226";"inj./inf. oploss. (pdr. + solv.) i.v./s.c. [flac. + voorgev. spuit]";"sol. inj./perf. (pdr + solv.) i.v./s.c. [flac. + ser. préremplie]";true;false
+"00227";"dosisaerosol susp. [inhalator]";"susp. inhal. (flacon press.) [inhalateur]";true;false
+"00228";"laryngofar./oromuc. spray oploss.";"sol. spray laryngophar./oromuq.";true;false
+"00229";"inj. susp. verl. afgifte i.artic./i.laes./i.burs./p.artic. [flac.]";"susp. inj. lib. prol. i.artic./i.lés./i.burs./p.artic. [flac.]";true;false
+"00230";"urethr. gel (unidose)";"gel (unidose) urétr.";true;false
+"00231";"inj. oploss. i.v./s.c./epidur. [amp.]";"sol. inj. i.v./s.c./p.dural [amp.]";true;false
+"00232";"auric. druppels oploss.";"gtts sol. auric.";true;false
+"00233";"cut. medic. pleister Patch";"emplâtre médic. cut. Patch";true;false
+"00234";"cut./rect. zalf";"pommade cut./rect.";true;false
+"00235";"cut. medic. pleister";"emplâtre médic. cut.";true;false
+"00236";"inf. oploss. i.v. [zak]";"sol. perf. i.v. [sac]";true;false
+"00237";"inj. oploss. (pdr. + solv.) s.c. [flac. + voorgev. spuit]";"sol. inj. (pdr + solv.) s.c. [flac. + ser. préremplie]";true;false
+"00238";"susp. (zakjes)";"susp. (sachet)";true;false
+"00239";"inf. oploss. conc. (pdr. + solv.) i.v./i.arter. [2x flac.]";"sol. perf. à diluer (pdr + solv.) i.v./i.artér. [2x flac.]";true;false
+"00240";"oploss. (pdr., zakjes) Junior";"sol. (pdr, sachet) Junior";true;false
+"00241";"rect. schuim Foam";"mousse rect. Foam";true;false
+"00242";"rect. susp.";"susp. rect.";true;false
+"00243";"inj./inf. oploss. (pdr. + solv.) i.m./i.v. [2x flac.]";"sol. inj./perf. (pdr + solv.) i.m./i.v. [2x flac.]";true;false
+"00393";"oplosb. tabl.";"compr. sol.";true;false
+"00469";"2/125 tabl.";"2/125 compr.";true;false
+"00244";"inj./inf. oploss. i.m./i.v./i.thec./i.arter./i.ventr. [flac.]";"sol. inj./perf. i.m./i.v./i.théc./i.artér./i.ventr. [flac.]";true;false
+"00245";"inj./inf. oploss. (pdr. + solv.) i.m./i.v. S.A.B. [flac., Act-O-Vial]";"sol. inj./perf. (pdr + solv.) i.m./i.v. S.A.B. [flac., Act-O-Vial]";true;false
+"00246";"inj./inf. oploss. (pdr. + solv.) i.m./i.v. S.A.B. [flac. + amp.]";"sol. inj./perf. (pdr + solv.) i.m./i.v. S.A.B. [flac. + amp.]";true;false
+"00247";"cut. pasta";"pâte cut.";true;false
+"00248";"cut. poeder";"poudre cut.";true;false
+"00249";"cut. spray pdr.";"poudre spray cut.";true;false
+"00250";"cut. oploss. Tinctuur";"sol. cut. Teinture";true;false
+"00251";"oromuc. gel";"gel oromuq.";true;false
+"00252";"inj./instill. susp. verl. afgifte i.m./i.artic./i.laes./i.burs./p.artic./rect. [flac.]";"susp. inj./instill. lib. prol. i.m./i.artic./i.lés./i.burs./p.artic./rect. [flac.]";true;false
+"00253";"tabl. verl. afgifte (deelb.) Retard";"compr. lib. prol. (séc.) Retard";true;false
+"00254";"inj./inf./instill. oploss. i.m./i.v./rect. [amp.]";"sol. inj./perf./instill. i.m./i.v./rect. [amp.]";true;false
+"00255";"orodisp. tabl. SolTab";"compr. orodisp. SolTab";true;false
+"00256";"nas. zalf";"pommade nas.";true;false
+"00257";"tabl. geregul. afgifte";"compr. lib. modif.";true;false
+"00258";"inhalatiedamp Inhaler [patr.]";"vapeur inhal. Inhaler [cart.]";true;false
+"00259";"oromuc. zuigtabl. Freshmint";"past. oromuq. Freshmint";true;false
+"00260";"medic. kauwgom Freshmint";"gomme à mâcher médic. Freshmint";true;false
+"00261";"medic. kauwgom";"gomme à mâcher médic.";true;false
+"00262";"medic. kauwgom Fruit";"gomme à mâcher médic. Fruit";true;false
+"00263";"zalf Soluble Dressing";"pommade Soluble Dressing";true;false
+"00264";"inj. oploss. i.m./i.v. [flac.]";"sol. inj. i.m./i.v. [flac.]";true;false
+"00265";"inf. oploss. conc. (pdr. + solv.) i.v. [2x flac.]";"sol. perf. à diluer (pdr + solv.) i.v. [2x flac.]";true;false
+"00266";"medic. kauwgom Cool Mint";"gomme à mâcher médic. Cool Mint";true;false
+"00267";"zuigtabl.";"compr. à sucer";true;false
+"00268";"tabl. Forte";"compr. Forte";true;false
+"00269";"orodisp. tabl. Velotab";"compr. orodisp. Velotab";true;false
+"00270";"inj. oploss. verl. afgifte s.c. [voorgev. spuit]";"sol. inj. lib. prol. s.c. [ser. préremplie]";true;false
+"00271";"inj. oploss./inf. oploss. (conc.) i.m./i.v. [amp.]";"sol. inj./sol. perf. à diluer i.m./i.v. [amp.]";true;false
+"00272";"inj. oploss./inf. oploss. (conc.) i.v. [amp.]";"sol. inj./sol. perf. à diluer i.v. [amp.]";true;false
+"00273";"verband";"pansement";true;false
+"00274";"siroop oploss. Kind";"sirop sol. Enfant";true;false
+"00275";"siroop oploss. Pediatrie";"sirop sol. Pédiatrique";true;false
+"00276";"zetpil Kind";"supp. Enfant";true;false
+"00277";"zetpil Volw.";"supp. Adulte";true;false
+"00278";"bruistabl.";"compr. efferv.";true;false
+"00279";"zetpil Pediatrie";"supp. Pédiatrique";true;false
+"00280";"zetpil Zuigel.";"supp. Bébé";true;false
+"00281";"i.uter. systeem";"dispositif i.utér.";true;false
+"00282";"bruistabl. (deelb.)";"compr. efferv. (séc.)";true;false
+"00283";"filmomh. tabl. (deelb.) Forte";"compr. pellic. (séc.) Forte";true;false
+"00284";"orodisp. tabl. Odis";"compr. orodisp. Odis";true;false
+"00285";"or. gel";"gel or.";true;false
+"00286";"inj. oploss. s.c. [amp.]";"sol. inj. s.c. [amp.]";true;false
+"00287";"inj./inf./verneveloploss. (pdr.) i.m./i.v./inhal. [flac.]";"sol. inj./perf./inhal. nébul. (pdr) i.m./i.v./inhal. [flac.]";true;false
+"00288";"inj. oploss. i.v./s.mucos. [amp.]";"sol. inj. i.v./s.muq. [amp.]";true;false
+"00289";"zachte caps. or.";"caps. molle or.";true;false
+"00290";"vag. zachte caps.";"caps. molle vag.";true;false
+"00291";"inj./inf. emuls. i.v. [flac.]";"émuls. inj./perf. i.v. [flac.]";true;false
+"00292";"inj./inf. emuls. i.v. [voorgev. spuit]";"émuls. inj./perf. i.v. [ser. préremplie]";true;false
+"00293";"inj./inf. emuls. i.v. [amp.]";"émuls. inj./perf. i.v. [amp.]";true;false
+"00294";"inf. oploss. conc. (pdr. + solv.) i.v. [flac. + amp.]";"sol. perf. à diluer (pdr + solv.) i.v. [flac. + amp.]";true;false
+"00295";"gingiv./oromuc. oploss.";"sol. gingiv./oromuq.";true;false
+"00296";"inj./inf. oploss. conc. (pdr.) i.v. [flac.]";"sol. inj./perf. à diluer (pdr) i.v. [flac.]";true;false
+"00297";"inf. oploss. (pdr. + solv.) i.v. [flac. + amp.]";"sol. perf. (pdr + solv.) i.v. [flac. + amp.]";true;false
+"00298";"filmomh. tabl. Wekelijks";"compr. pellic. Hebdomadaire";true;false
+"00299";"lyofilisaat Lyo";"lyophilisat Lyo";true;false
+"00300";"harde caps. geregul. afgifte";"gél. lib. modif.";true;false
+"00301";"inj./inf. oploss. epidur./p.neur. [amp., locoregionale infiltr.]";"sol. inj./perf. p.dural/p.neur. [amp., infiltr. locorégionale]";true;false
+"00302";"dosisaerosol oploss. [inhalator]";"sol. inhal. (flacon press.) [inhalateur]";true;false
+"00303";"dosisaerosol susp. Evohaler";"susp. inhal. (flacon press.) Evohaler";true;false
+"00304";"inhalatiepdr. (harde caps.) [inhalator]";"poudre inhal. (gél.) [inhalateur]";true;false
+"00305";"inhalatiepdr. (harde caps.) [Aerolizer]";"poudre inhal. (gél.) [Aerolizer]";true;false
+"00306";"inf. oploss. (pdr. + solv.) i.v. [2x flac.]";"sol. perf. (pdr + solv.) i.v. [2x flac.]";true;false
+"00307";"inf. oploss. (pdr. + solv.) i.v. [2x amp.]";"sol. perf. (pdr + solv.) i.v. [2x amp.]";true;false
+"00308";"disp. tabl. Instant";"compr. disp. Instant";true;false
+"00309";"inj. oploss. s.c. [patr.] voor Genotonorm Pen 12";"sol. inj. (pdr + solv.) s.c. [cart.] pour Genotonorm Pen 12";true;false
+"00310";"inj. oploss. s.c. [patr.] voor Genotonorm Pen 5,3";"sol. inj. (pdr + solv.) s.c. [cart.] pour Genotonorm Pen 5,3";true;false
+"00311";"verband Lite";"pansement Lite";true;false
+"00312";"maagsapresist. tabl. E.C.";"compr. gastro-résist. E.C.";true;false
+"00313";"verband Border Sacrum";"pansement Border Sacrum";true;false
+"00314";"verband Multishape";"pansement Multishape";true;false
+"00315";"instill. susp. endotrach.";"susp. instill. endotrach.";true;false
+"00316";"tabl. D";"compr. D";true;false
+"00317";"inf. oploss. (pdr.) i.arter. [flac.]";"sol. perf. (pdr) i.artér. [flac.]";true;false
+"00318";"verband Talon";"pansement Talon";true;false
+"00319";"verband Border Heel";"pansement Border Heel";true;false
+"00320";"bruisgran. (zakjes)";"gran. efferv. (sachet)";true;false
+"00321";"verband Border";"pansement Border";true;false
+"00322";"or./rect. susp. (pdr.)";"susp. (pdr) or./rect.";true;false
+"00323";"inj./instill. oploss. (pdr. + solv.) i.m./i.v./i.vesic./endotrach./i.perit./i.pleur. [flac. + amp.]";"sol. inj./instill. (pdr + solv.) i.m./i.v./i.vésic./endotrach./i.périt./i.pleur. [flac. + amp.]";true;false
+"00394";"inf. emuls. i.v. [voorgev. spuit]";"émuls. perf. i.v. [ser. préremplie]";true;false
+"00324";"inj. oploss. (pdr. + solv.) i.m. [flac. + voorgev. spuit]";"sol. inj. (pdr + solv.) i.m. [flac. + ser. préremplie]";true;false
+"00325";"gel Dermgel";"gel Dermgel";true;false
+"00326";"cut. oploss. Once";"sol. cut. Once";true;false
+"00327";"inj. susp. verl. afgifte i.derm./i.artic. [flac.]";"susp. inj. lib. prol. i.derm./i.artic. [flac.]";true;false
+"00328";"inj./inf. oploss. (pdr.) i.v./i.arter. [flac.]";"sol. inj./perf. (pdr) i.v./i.artér. [flac.]";true;false
+"00329";"verneveloploss. (unidose)";"sol. inhal. nébul. (unidose)";true;false
+"00330";"inj. oploss. i.arter./i.lymf./i.uter. [amp.]";"sol. inj. i.artér./i.lymph./i.utér. [amp.]";true;false
+"00331";"inj. oploss. i.m./s.c. [voorgev. spuit]";"sol. inj. i.m./s.c. [ser. préremplie]";true;false
+"00332";"inj. susp. (pdr. + solv.) i.m./s.c. [flac. + voorgev. spuit]";"susp. inj. (pdr + solv.) i.m./s.c. [flac. + ser. préremplie]";true;false
+"00333";"verband Sacrum Border";"pansement Sacrum Border";true;false
+"00334";"inj. oploss. i.m./s.c./i.derm./i.artic./p.artic. [amp.]";"sol. inj. i.m./s.c./i.derm./i.artic./p.artic. [amp.]";true;false
+"00335";"i.v./or. inf./drinkb. oploss. conc. (pdr.) [flac.]";"sol. perf./buv. à diluer (pdr) i.v./or. [flac.]";true;false
+"00336";"inj./inf./drinkb. oploss. (pdr. + solv.) i.m./i.v./or. [flac. + amp.]";"sol. inj./perf./buv. (pdr + solv.) i.m./i.v./or. [flac. + amp.]";true;false
+"00337";"dosisaerosol oploss. HFA [inhalator]";"sol. inhal. (flacon press.) HFA [inhalateur]";true;false
+"00338";"dosisaerosol oploss. HFA";"sol. inhal. (flacon press.) HFA";true;false
+"00339";"dosisaerosol oploss. Autohaler [ademgest.]";"sol. inhal. (flacon press.) Autohaler [déclenché par la resp.]";true;false
+"00340";"inhalatiepdr. (voorverdeeld) Diskus";"poudre inhal. (unidose) Diskus";true;false
+"00341";"siroop oploss. (zonder suiker)";"sirop sol. (sans sucre)";true;false
+"00342";"bruisgran. (zakjes) Forte Orange";"gran. efferv. (sachet) Forte Orange";true;false
+"00343";"kauwtabl. Forte Citroen";"compr. à croquer Forte Citron";true;false
+"00344";"bruistabl. Forte Sinaasappel";"compr. efferv. Forte Orange";true;false
+"00345";"nas. spray oploss. Eucalyptus";"sol. spray nas. Eucalyptus";true;false
+"00346";"harde caps. Immediate Release";"gél. Immediate Release";true;false
+"00347";"druppels oploss. (druppelfl.)";"gtts sol. (flac. compte-gouttes)";true;false
+"00348";"inj. oploss. i.artic. [voorgev. spuit]";"sol. inj. i.artic. [ser. préremplie]";true;false
+"00349";"inj./instill. oploss. i.m./i.v./i.artic./i.burs./rect. [amp.]";"sol. inj./instill. i.m./i.v./i.artic./i.burs./rect. [amp.]";true;false
+"00350";"inj./inf. oploss. (pdr.) i.m./i.v./i.artic./i.burs. [flac.]";"sol. inj./perf. (pdr) i.m./i.v./i.artic./i.burs. [flac.]";true;false
+"00351";"inj./inf./verneveloploss. (pdr.) i.v./inhal. [flac.]";"sol. inj./perf./inhal. nébul. (pdr) i.v./inhal. [flac.]";true;false
+"00352";"auric./ocul. druppels susp. [zonder bew.]";"gtts susp. auric./opht. [sans cons.]";true;false
+"00353";"auric./ocul. zalf [zonder bew.]";"pommade auric./opht. [sans cons.]";true;false
+"00354";"nas. druppels oploss. Kind";"gtts sol. nas. Enfant";true;false
+"00355";"nas. spray oploss. Menthol";"sol. spray nas. Menthol";true;false
+"00356";"inj. susp. s.c. [flac.]";"susp. inj. s.c. [flac.]";true;false
+"00357";"inhalatiepdr. (voorverdeeld) Forspiro";"poudre inhal. (unidose) Forspiro";true;false
+"00358";"inj. oploss. (pdr. + solv.) i.v./s.c. [flac. + voorgev. spuit]";"sol. inj. (pdr + solv.) i.v./s.c. [flac. + ser. préremplie]";true;false
+"00359";"inj. oploss./inj. oploss. (conc.) i.v./s.c. [flac.]";"sol. inj./sol. inj. à diluer i.v./s.c. [flac.]";true;false
+"00360";"inj. oploss. s.c. [patr., autom. inject. ava]";"sol. inj. s.c. [cart., inject. autom. ava]";true;false
+"00361";"rect. gel";"gel rect.";true;false
+"00362";"orofar. zuigtabl. Vit. C Sinaasappel";"past. orophar. Vit. C Orange";true;false
+"00363";"kauwtabl. D3 Sinaasappel";"compr. à croquer D3 Orange";true;false
+"00364";"filmomh. tabl. Junior";"compr. pellic. Junior";true;false
+"00365";"inj. oploss. (pdr. + solv.) i.m./i.v. [flac. + amp.]";"sol. inj. (pdr + solv.) i.m./i.v. [flac. + amp.]";true;false
+"00366";"cut. oploss. (alc.) Alcoholicus + Azorubine";"sol. cut. (alc.) Alcoholicus + Azorubine";true;false
+"00367";"inf. disp. i.v. [zak]";"disp. perf. i.v. [sac]";true;false
+"00368";"inj./inf. oploss. (pdr. + solv.) i.m./i.v. S.A.B. Act-O-Vial [flac.]";"sol. inj./perf. (pdr + solv.) i.m./i.v. S.A.B. Act-O-Vial [flac.]";true;false
+"00369";"inj. oploss. (pdr.) s.c. [flac.]";"sol. inj. (pdr) s.c. [flac.]";true;false
+"00370";"i.laes. implantatiematrix (pdr. + solv. + matrix)";"matrice pour implant. (pdr + solv. + matrice) i.lés.";true;false
+"00371";"i.vesic. susp. (pdr.) [flac.]";"susp. (pdr) i.vésic. [flac.]";true;false
+"00372";"maagsapresist. tabl. Enteric Coated";"compr. gastro-résist. Enteric Coated";true;false
+"00373";"inj. oploss. epidur./epilaes./p.neur. [flac., locoregionale infiltr.]";"sol. inj. épilés./p.dural/p.neur. [flac., infiltr. locorégionale]";true;false
+"00374";"verband Plus";"pansement Plus";true;false
+"00375";"kauwtabl. Munt";"compr. à croquer Menthe";true;false
+"00376";"harde caps. Volw.";"gél. Adulte";true;false
+"00377";"inj./inf. oploss. i.v./epidur. Forte [amp.]";"sol. inj./perf. i.v./p.dural Forte [amp.]";true;false
+"00378";"inj. susp. verl. afgifte i.m. [flac.]";"susp. inj. lib. prol. i.m. [flac.]";true;false
+"00379";"harde caps. Kind";"gél. Enfant";true;false
+"00380";"inj. oploss. (pdr. + solv.) i.m. [2x flac.]";"sol. inj. (pdr + solv.) i.m. [2x flac.]";true;false
+"00381";"inj. susp. verl. afgifte s.c. Press [voorgev. spuit]";"susp. inj. lib. prol. s.c. Press [ser. préremplie]";true;false
+"00382";"inj. susp. verl. afgifte s.c. [voorgev. spuit]";"susp. inj. lib. prol. s.c. [ser. préremplie]";true;false
+"00383";"maagsapresist. tabl. Enteric";"compr. gastro-résist. Enteric";true;false
+"00384";"nas. spray oploss. Sine Conservans Kind";"sol. spray nas. Sine Conservans Enfant";true;false
+"00385";"inj./inf./instill./verneveloploss. i.m./i.v./auric./endotrach./inhal./nas. [amp.]";"sol. inj./perf./instill./inhal. nébul. i.m./i.v./auric./endotrach./inhal./nas. [amp.]";true;false
+"00386";"inj. susp. s.c. Cartridge [patr.]";"susp. inj. s.c. Cartridge [cart.]";true;false
+"00387";"inj. susp. i.m./s.c. [flac.]";"susp. inj. i.m./s.c. [flac.]";true;false
+"00388";"endotrach./inhal./nas. druppels/verneveloploss. (pdr. + solv.) [druppelfl.]";"sol. gtts/inhal. nébul. (pdr + solv.) endotrach./inhal./nas. [flac. compte-gouttes]";true;false
+"00389";"inj./instill. susp. verl. afgifte i.m./i.artic./i.laes./i.burs./p.artic./rect. [voorgev. spuit]";"susp. inj./instill. lib. prol. i.m./i.artic./i.lés./i.burs./p.artic./rect. [ser. préremplie]";true;false
+"00390";"inj./inf. oploss. (conc.) i.m./i.v./s.c. [amp.]";"sol. inj./perf. à diluer i.m./i.v./s.c. [amp.]";true;false
+"00391";"crème Labialis";"crème Labialis";true;false
+"00392";"cut. susp. Wash";"susp. cut. Wash";true;false
+"00395";"bruispdr. (zakjes)";"poudre efferv. (sachet)";true;false
+"00396";"or. pasta";"pâte or.";true;false
+"00397";"inj. oploss. s.c. SmartJect [voorgev. pen]";"sol. inj. s.c. SmartJect [stylo prérempli]";true;false
+"00398";"inj./inf. oploss. i.v./i.arter. [amp.]";"sol. inj./perf. i.v./i.artér. [amp.]";true;false
+"00399";"inj. oploss. (pdr. + solv.) i.cavern. [flac. + voorgev. spuit]";"sol. inj. (pdr + solv.) i.cavern. [flac. + ser. préremplie]";true;false
+"00400";"inj. disp. i.v. [flac.]";"disp. inj. i.v. [flac.]";true;false
+"00401";"crème (pomp)";"crème (pompe)";true;false
+"00402";"orofar. zuigtabl. Honing- en Citroensmaak";"past. orophar. goût Miel et Citron";true;false
+"00403";"inj. oploss. (pdr.) i.m./i.gland. [flac.]";"sol. inj. (pdr) i.m./i.gland. [flac.]";true;false
+"00404";"gran. (zakjes) Instant Vanille Aardbei";"gran. (sachet) Instant Vanille Fraise";true;false
+"00405";"inj. oploss./inf. oploss. (conc.) i.v. [flac.]";"sol. inj./sol. perf. à diluer i.v. [flac.]";true;false
+"00406";"inf. oploss. (conc.) i.v. Pegylated Liposomal [flac.]";"sol. perf. à diluer i.v. Pegylated Liposomal [flac.]";true;false
+"00407";"inj. susp. (pdr.) s.c. [flac.]";"susp. inj. (pdr) s.c. [flac.]";true;false
+"00408";"inj. oploss. s.c. KwikPen [voorgev. pen]";"sol. inj. s.c. KwikPen [stylo prérempli]";true;false
+"00409";"inj. oploss. s.c. Junior KwikPen [voorgev. pen]";"sol. inj. s.c. Junior KwikPen [stylo prérempli]";true;false
+"00410";"inj./inf. oploss. (pdr.) i.m./i.v./s.c. [flac.]";"sol. inj./perf. (pdr) i.m./i.v./s.c. [flac.]";true;false
+"00411";"inf. disp. (conc.) i.v. Pegylated Liposomal [flac.]";"disp. perf. à diluer i.v. Pegylated Liposomal [flac.]";true;false
+"00412";"inf. susp. (conc.) i.v. [flac.]";"susp. perf. à diluer i.v. [flac.]";true;false
+"00413";"inj. susp. (pdr. + susp.) i.m. [2x flac.]";"susp. inj. (pdr + susp.) i.m. [2x flac.]";true;false
+"00414";"inj. susp. s.c. Starter Pack [flac.]";"susp. inj. s.c. Starter Pack [flac.]";true;false
+"00415";"endocerv. gel [voorgev. spuit]";"gel endocerv. [ser. préremplie]";true;false
+"00416";"inf. disp. conc. (pdr.) i.v. Liposomaal [flac.]";"disp. perf. à diluer (pdr) i.v. Liposomale [flac.]";true;false
+"00417";"nas. druppels oploss.";"gtts sol. nas.";true;false
+"00418";"cut. oploss. Lotion";"sol. cut. Lotion";true;false
+"00419";"inf. emuls. (conc.) i.v. Kind [amp.]";"émuls. perf. à diluer i.v. Enfant [amp.]";true;false
+"00420";"inf. emuls. (conc.) i.v. Volw. [amp.]";"émuls. perf. à diluer i.v. Adulte [amp.]";true;false
+"00421";"orofar. zuigpastille";"pâte à sucer orophar.";true;false
+"00422";"filmomh. tabl. Conti";"compr. pellic. Conti";true;false
+"00423";"transderm. pleister Septem";"dispositif transderm. Septem";true;false
+"00424";"inj. oploss. i.m. [voorgev. spuit]";"sol. inj. i.m. [ser. préremplie]";true;false
+"00425";"inj. oploss. i.vitr. [voorgev. spuit]";"sol. inj. i.vitr. [ser. préremplie]";true;false
+"00426";"transderm. lok. spray oploss.";"sol. spray transderm. local";true;false
+"00427";"s.c. implantaat NXT [implantaatinjector]";"implant s.c. NXT [pistolet pour implant]";true;false
+"00428";"zalf voor inhalatiedamp [pot]";"pommade inhal. vapeur [pot]";true;false
+"00429";"transderm. lok. crème";"crème transderm. local";true;false
+"00430";"wiek";"mèche";true;false
+"00431";"tabl. (deelb.) Besilaat";"compr. (séc.) Besilaat";true;false
+"00432";"omh. tabl. (deelb.) Divule";"compr. enr. (séc.) Divule";true;false
+"00433";"tabl. Besilate";"compr. Besilate";true;false
+"00434";"ocul. insert";"insert opht.";true;false
+"00435";"inj./inf. oploss. (conc.) i.v./s.c. [flac.]";"sol. inj./perf. à diluer i.v./s.c. [flac.]";true;false
+"00436";"inj./inf. oploss. (conc.) i.v./s.c. [voorgev. spuit]";"sol. inj./perf. à diluer i.v./s.c. [ser. préremplie]";true;false
+"00437";"orofar. spray oploss. Honing en Citroen";"sol. spray orophar. Miel et Citron";true;false
+"00438";"transderm. lok. gel Forte";"gel transderm. local Forte";true;false
+"00439";"inj./inf. oploss. (conc.) i.v. [flac.]";"sol. inj./perf. à diluer i.v. [flac.]";true;false
+"00440";"inf. oploss. (toed. systeem) p.neur. [pomp, locoregionale infiltr.]";"sol. perf. (système admin.) p.neur. [pompe, infiltr. locorégionale]";true;false
+"00441";"inj./drinkb. oploss. i.v./or. [amp.]";"sol. inj./buv. i.v./or. [amp.]";true;false
+"00442";"inj./drinkb. oploss. i.m./i.v./or. Paediatric [amp.]";"sol. inj./buv. i.m./i.v./or. Paediatric [amp.]";true;false
+"00443";"inj. oploss. i.derm. [flac.]";"sol. inj. i.derm. [flac.]";true;false
+"00444";"vag. afgiftesysteem";"système de diffusion vag.";true;false
+"00445";"inj. oploss. (pdr. + solv.) i.m./i.v./s.c. Hypokit [flac. + voorgev. spuit]";"sol. inj. (pdr + solv.) i.m./i.v./s.c. Hypokit [flac. + ser. préremplie]";true;false
+"00446";"zetpil Kind en Zuigel.";"supp. Enfant et Bébé";true;false
+"00447";"i.laes. implantaat";"implant i.lés.";true;false
+"00448";"inf. oploss. (conc.)/inf. oploss. i.v./s.c. [flac.]";"sol. perf. à diluer/sol. perf. i.v./s.c. [flac.]";true;false
+"00449";"zalf Balsem";"pommade Baume";true;false
+"00450";"gorgeldrank/mondspoeling";"gargarisme/bain de bouche";true;false
+"00451";"i.vitr. implantaat (applic.)";"implant (applic.) i.vitr.";true;false
+"00452";"gran. (zakjes) Instant Junior Vanille Aardbei";"gran. (sachet) Instant Junior Vanille Fraise";true;false
+"00453";"omh. tabl. Forte";"compr. enr. Forte";true;false
+"00454";"omh. tabl. Kinderen";"compr. enr. Enfants";true;false
+"00455";"orofar. zuigtabl. Honing/Citroen";"past. orophar. Miel/Citron";true;false
+"00456";"orofar. zuigtabl. (zonder suiker) Suikervrij Aardbei";"past. orophar. (sans sucre) Sans Sucre Fraise";true;false
+"00457";"orofar. zuigtabl. (zonder suiker) Suikervrij Citroen";"past. orophar. (sans sucre) Sans Sucre Citron";true;false
+"00458";"inj./inf. oploss. (pdr.) i.v. P [flac.]";"sol. inj./perf. (pdr) i.v. P [flac.]";true;false
+"00459";"siroop oploss. (zakjes)";"sirop sol. (sachet)";true;false
+"00460";"siroop oploss. (zakjes) Fruit";"sirop sol. (sachet) Fruit";true;false
+"00461";"inhalatiepdr. (harde caps.) Breezhaler";"poudre inhal. (gél.) Breezhaler";true;false
+"00462";"filmomh. tabl. Low";"compr. pellic. Low";true;false
+"00463";"2% - 1/200 000 inj. oploss. i.artic./epidur./p.neur. [flac., locoregionale infiltr.]";"2% - 1/200 000 sol. inj. i.artic./p.dural/p.neur. [flac., infiltr. locorégionale]";true;false
+"00464";"1% - 1/200 000 inj. oploss. i.artic./epidur./p.neur. [flac., locoregionale infiltr.]";"1% - 1/200 000 sol. inj. i.artic./p.dural/p.neur. [flac., infiltr. locorégionale]";true;false
+"00465";"geïmpr. verbandgaas";"compresse impr.";true;false
+"00466";"oploss. (conc.) Vloeibaar Sinaasappelsmaak";"sol. à diluer Liquide Goût orange";true;false
+"00467";"inj. susp. verl. afgifte (pdr. + solv.) i.m./s.c. [flac. + amp.]";"susp. inj. lib. prol. (pdr + solv.) i.m./s.c. [flac. + amp.]";true;false
+"00468";"harde caps. verl. afgifte Retard";"gél. lib. prol. Retard";true;false
+"00470";"verband Tulle";"pansement Tulle";true;false
+"00471";"inj. oploss. verl. afgifte i.m. Depot [amp.]";"sol. inj. lib. prol. i.m. Depot [amp.]";true;false
+"00472";"inj. oploss. i.m. Acutard [amp.]";"sol. inj. i.m. Acutard [amp.]";true;false
+"00473";"inj./inf. oploss. s.c. [flac.]";"sol. inj./perf. s.c. [flac.]";true;false
+"00474";"harde caps. verl. afgifte Exel";"gél. lib. prol. Exel";true;false
+"00475";"tabl. verl. afgifte (deelb.) Chrono 500";"compr. lib. prol. (séc.) Chrono 500";true;false
+"00476";"tabl. verl. afgifte (deelb.)";"compr. lib. prol. (séc.)";true;false
+"00477";"tabl. verl. afgifte Uno";"compr. lib. prol. Uno";true;false
+"00478";"ocul. druppels verl. afgifte Ocumeter Plus";"collyre lib. prol. Ocumeter Plus";true;false
+"00479";"tabl. verl. afgifte Ocas";"compr. lib. prol. Ocas";true;false
+"00480";"tabl. verl. afgifte Modutab";"compr. lib. prol. Modutab";true;false
+"00481";"inj. susp. verl. afgifte (pdr. + solv.) i.m. Consta [flac. + voorgev. spuit]";"susp. inj. lib. prol. (pdr + solv.) i.m. Consta [flac. + ser. préremplie]";true;false
+"00482";"tabl. verl. afgifte Once Daily";"compr. lib. prol. Once Daily";true;false
+"00483";"tabl. verl. afgifte Repetabs";"compr. lib. prol. Repetabs";true;false
+"00484";"harde caps. geregul. afgifte Uno";"gél. lib. modif. Uno";true;false
+"00485";"tabl. verl. afgifte XR";"compr. lib. prol. XR";true;false
+"00486";"inj. oploss. s.c. Junior Kwikpen [voorgev. pen]";"sol. inj. s.c. Junior Kwikpen [stylo prérempli]";true;false
+"00487";"inj. oploss. i.thec. [flac.]";"sol. inj. i.théc. [flac.]";true;false
+"00488";"inhalatiepdr. (voorverdeeld) Ellipta";"poudre inhal. (unidose) Ellipta";true;false
+"00489";"gran. verl. afgifte (zakjes)";"gran. lib. prol. (sachet)";true;false
+"00490";"inj. oploss. s.c. ACTPen [voorgev. pen]";"sol. inj. s.c. ACTPen [stylo prérempli]";true;false
+"00491";"verband Post-op";"pansement Post-op";true;false
+"00492";"verband Sacrum";"pansement Sacrum";true;false
+"00493";"inhalatiepdr. Easyhaler";"poudre inhal. Easyhaler";true;false
+"00494";"ocul. druppels oploss. Sine Conservans [zonder bew.]";"collyre sol. Sine Conservans [sans cons.]";true;false
+"00495";"verband Life Non-bordered";"pansement Life Non-bordered";true;false
+"00496";"crème (zakjes)";"crème (sachet)";true;false
+"00497";"inj. oploss. i.v./s.c./i.derm./epidur. [amp.]";"sol. inj. i.v./s.c./i.derm./p.dural [amp.]";true;false
+"00498";"urethr. gel";"gel urétr.";true;false
+"00499";"tabl. (deelb. in 4) A";"compr. (séc. en 4) A";true;false
+"00500";"inj. susp. verl. afgifte s.c. [voorgev. pen, BCise]";"susp. inj. lib. prol. s.c. [stylo prérempli, BCise]";true;false
+"00501";"i.vesic. oploss. (pdr. + solv.) [2x flac.]";"sol. (pdr + solv.) i.vésic. [2x flac.]";true;false
+"00502";"inj. oploss. i.thec. [amp.]";"sol. inj. i.théc. [amp.]";true;false
+"00503";"rect. zalf";"pommade rect.";true;false
+"00504";"druppels susp.";"gtts susp.";true;false
+"00505";"inf./instill. oploss. i.v./i.vesic. [flac.]";"sol. perf./instill. i.v./i.vésic. [flac.]";true;false
+"00506";"cut./vag. oploss.";"sol. cut./vag.";true;false
+"00507";"disp. maagsapresist. tabl. Mups";"compr. gastro-résist. disp. Mups";true;false
+"00508";"inj. susp. verl. afgifte (pdr. + solv.) i.m. L.A.R. [flac. + voorgev. spuit]";"susp. inj. lib. prol. (pdr + solv.) i.m. L.A.R. [flac. + ser. préremplie]";true;false
+"00509";"tabl. verl. afgifte (deelb.) 200";"compr. lib. prol. (séc.) 200";true;false
+"00510";"tabl. verl. afgifte (deelb.) 25";"compr. lib. prol. (séc.) 25";true;false
+"00511";"harde caps. verl. afgifte L.A.";"gél. lib. prol. L.A.";true;false
+"00512";"harde caps. verl. afgifte Slow Release";"gél. lib. prol. Slow Release";true;false
+"00513";"s.c. implantaat L.A. [implantaatinjector]";"implant s.c. L.A. [pistolet pour implant]";true;false
+"00514";"inj. oploss. verl. afgifte i.m. Decanoas [amp.]";"sol. inj. lib. prol. i.m. Decanoas [amp.]";true;false
+"00515";"tabl. geregul. afgifte (deelb.)";"compr. lib. modif. (séc.)";true;false
+"00516";"tabl. (deelb.) Forte";"compr. (séc.) Forte";true;false
+"00517";"ocul. druppels verl. afgifte LA";"collyre lib. prol. LA";true;false
+"00518";"tabl. geregul. afgifte Uno";"compr. lib. modif. Uno";true;false
+"00519";"inf. oploss. (conc. + solv.) i.v. [2x flac.]";"sol. perf. (sol. à diluer + solv.) i.v. [2x flac.]";true;false
+"00520";"inj./drinkb. oploss. i.m./i.v./s.c./or. [amp.]";"sol. inj./buv. i.m./i.v./s.c./or. [amp.]";true;false
+"00521";"tabl. geregul. afgifte (deelb.) CR";"compr. lib. modif. (séc.) CR";true;false
+"00522";"siroop oploss. Menthol";"sirop sol. Menthol";true;false
+"00523";"susp. (gran., zakjes) Junior";"susp. (gran., sachet) Junior";true;false
+"00524";"inhal. verneveloploss. (pdr. + solv.) [flac. + amp.]";"sol. inhal. nébul. (pdr + solv.) inhal. [flac. + amp.]";true;false
+"00525";"inj. oploss. i.thec. Hyperbare [amp., locoregionale infiltr.]";"sol. inj. i.théc. Hyperbare [amp., infiltr. locorégionale]";true;false
+"00526";"harde caps. verl. afgifte HBS";"gél. lib. prol. HBS";true;false
+"00527";"susp. (gran., zakjes) Baby";"susp. (gran., sachet) Baby";true;false
+"00528";"oromuc. spray oploss. Mint";"sol. spray oromuq. Mint";true;false
+"00529";"inf. oploss. (conc.) i.v. [voorgev. spuit]";"sol. perf. à diluer i.v. [ser. préremplie]";true;false
+"00530";"dosisaerosol susp. Autohaler [ademgest.]";"susp. inhal. (flacon press.) Autohaler [déclenché par la resp.]";true;false
+"00531";"verneveloploss. [druppelfl.]";"sol. inhal. nébul. [flac. compte-gouttes]";true;false
+"00532";"maagsapresist. zachte caps.";"caps. molle gastro-résist.";true;false
+"00533";"inj. oploss. i.m. [voorgev. pen]";"sol. inj. i.m. [stylo prérempli]";true;false
+"00534";"inf. oploss. conc. (pdr. + solv.) i.v. Liposomal [flac.]";"sol. perf. à diluer (pdr + solv.) i.v. Liposomal [flac.]";true;false
+"00535";"inj. oploss. s.c. SureClick [voorgev. pen]";"sol. inj. s.c. SureClick [stylo prérempli]";true;false
+"00536";"inj. oploss. i.vitr. [flac.]";"sol. inj. i.vitr. [flac.]";true;false
+"00537";"cut. oploss. (unidose) (alc.) Getinte";"sol. (unidose) cut. (alc.) Coloré";true;false
+"00538";"omh. tabl. Bedtime";"compr. enr. Bedtime";true;false
+"00539";"crème Lipid";"crème Lipid";true;false
+"00540";"inj. oploss. (pdr. + solv.) i.v. [voorgev. spuit]";"sol. inj. (pdr + solv.) i.v. [ser. préremplie]";true;false
+"00541";"inj. oploss. i.m./i.v. [voorgev. spuit]";"sol. inj. i.m./i.v. [ser. préremplie]";true;false
+"00542";"inj. susp. (pdr. + solv.) s.c. [flac. + amp.]";"susp. inj. (pdr + solv.) s.c. [flac. + amp.]";true;false
+"00543";"inj. oploss. s.c. Daily [voorgev. spuit]";"sol. inj. s.c. Daily [ser. préremplie]";true;false
+"00544";"inhalatiepdr. (harde caps.) [Handihaler]";"poudre inhal. (gél.) [Handihaler]";true;false
+"00545";"inf./instill. oploss. i.v./i.cistern. [flac.]";"sol. perf./instill. i.v./i.cistern. [flac.]";true;false
+"00546";"inj./inf./drinkb. oploss. i.m./i.v./or. [amp.]";"sol. inj./perf./buv. i.m./i.v./or. [amp.]";true;false
+"00547";"subling. lyofilisaat Melt";"lyophilisat subling. Melt";true;false
+"00548";"inj./inf. oploss. i.v./i.arter. [flac.]";"sol. inj./perf. i.v./i.artér. [flac.]";true;false
+"00549";"rect. oploss. Kind";"sol. rect. Enfant";true;false
+"00550";"rect. oploss.";"sol. rect.";true;false
+"00551";"or. poeder (zakjes)";"poudre (sachet) or.";true;false
+"00552";"i.uter. afleveringssysteem";"système de diffusion i.utér.";true;false
+"00553";"harde caps. geregul. afgifte XR";"gél. lib. modif. XR";true;false
+"00554";"rect. oploss. Volw.";"sol. rect. Adulte";true;false
+"00555";"inj. susp. verl. afgifte (pdr. + solv.) i.m. SR [flac. + amp.]";"susp. inj. lib. prol. (pdr + solv.) i.m. SR [flac. + amp.]";true;false
+"00556";"inj. susp. verl. afgifte (pdr. + solv.) i.m./s.c. SR [flac. + amp.]";"susp. inj. lib. prol. (pdr + solv.) i.m./s.c. SR [flac. + amp.]";true;false
+"00557";"inj. oploss. i.thec. Hyperbar [amp.]";"sol. inj. i.théc. Hyperbar [amp.]";true;false
+"00558";"lyofilisaat Expidet";"lyophilisat Expidet";true;false
+"00559";"inj./inf. oploss. (pdr.) i.m./i.v./s.c./i.arter./i.perit./i.pleur./i.tumor. [flac.]";"sol. inj./perf. (pdr) i.m./i.v./s.c./i.artér./i.périt./i.pleur./i.tumor. [flac.]";true;false
+"00560";"omh. tabl. Fasttabs";"compr. enr. Fasttabs";true;false
+"00561";"transderm. pleister Invisi Patch";"dispositif transderm. Invisi Patch";true;false
+"00562";"inj. oploss. i.m./s.c. [flac.]";"sol. inj. i.m./s.c. [flac.]";true;false
+"00563";"harde caps. verl. afgifte P";"gél. lib. prol. P";true;false
+"00564";"maagsapresist. gran. verl. afgifte (zakjes)";"gran. gastro-résist. lib. prol. (sachet)";true;false
+"00565";"tabl. geregul. afgifte XR";"compr. lib. modif. XR";true;false
+"00566";"orofar. zuigtabl. Honing";"compr. à sucer orophar. Miel";true;false
+"00567";"gel (pdr. + gel)";"gel (pdr + gel)";true;false
+"00568";"orofar. zuigtabl. Aardbei";"compr. à sucer orophar. Fraise";true;false
+"00569";"inj./drinkb. oploss. i.m./i.v./or. [amp.]";"sol. inj./buv. i.m./i.v./or. [amp.]";true;false
+"00570";"filmomh. tabl. + bruisgran. (zakjes)";"compr. pellic. + gran. efferv. (sachet)";true;false
+"00571";"cut. oploss. (alc.) Transdermaal";"sol. cut. (alc.) Transdermique";true;false
+"00572";"oploss. (unidose) Forte";"sol. (unidose) Forte";true;false
+"00573";"cut. oploss. (unidose) (alc.)";"sol. (unidose) cut. (alc.)";true;false
+"00574";"orofar. zuigtabl. Citroen";"past. orophar. Citron";true;false
+"00575";"inj./inf./instill. oploss. i.v./i.artic./i.laes./cut./i.oss./i.perit./i.pleur. [amp.]";"sol. inj./perf./instill. i.v./i.artic./i.lés./cut./i.oss./i.périt./i.pleur. [amp.]";true;false
+"00576";"lyofilisaat Zydis";"lyophilisat Zydis";true;false
+"00577";"kauwtabl. Antizuur-Antireflux";"compr. à croquer Antiacide-Antireflux";true;false
+"00578";"inj. susp. i.vitr. [flac.]";"susp. inj. i.vitr. [flac.]";true;false
+"00579";"gel Forte";"gel Forte";true;false
+"00580";"gel Hydro";"gel Hydro";true;false
+"00581";"wiek Filler";"mèche Filler";true;false
+"00582";"verband Transparent";"pansement Transparent";true;false
+"00583";"wiek T";"mèche T";true;false
+"00584";"verband Extra dun";"pansement Extra mince";true;false
+"00585";"verband Extra dun [Ovaal]";"pansement Extra mince [Ovale]";true;false
+"00586";"verband Signal";"pansement Signal";true;false
+"00587";"verband Signal Hiel";"pansement Signal Talon";true;false
+"00588";"verband Signal Sacraal";"pansement Signal Sacrum";true;false
+"00589";"verband Concave";"pansement Concave";true;false
+"00590";"verband Sacral";"pansement Sacral";true;false
+"00591";"verband Thin";"pansement Thin";true;false
+"00592";"ocul. druppels oploss. (unidose) Unit Dose [zonder bew.]";"collyre sol. (unidose) Unit Dose [sans cons.]";true;false
+"00593";"verband Gentle Border Lite";"pansement Gentle Border Lite";true;false
+"00594";"verband Dun";"pansement Fin";true;false
+"00595";"inj./inf. oploss. i.m./i.v./i.thec./i.arter. [flac.]";"sol. inj./perf. i.m./i.v./i.théc./i.artér. [flac.]";true;false
+"00596";"verband Ultra";"pansement Ultra";true;false
+"00597";"inj. susp. verl. afgifte i.m./i.derm./i.artic./i.laes./i.burs./p.artic. [amp.]";"susp. inj. lib. prol. i.m./i.derm./i.artic./i.lés./i.burs./p.artic. [amp.]";true;false
+"00598";"inj. susp. verl. afgifte i.m./i.derm./i.artic./i.laes./i.burs./p.artic. [voorgev. spuit]";"susp. inj. lib. prol. i.m./i.derm./i.artic./i.lés./i.burs./p.artic. [ser. préremplie]";true;false
+"00599";"verband Conformable";"pansement Conformable";true;false
+"00600";"verband Gentle Border";"pansement Gentle Border";true;false
+"00601";"verband Gentle Border Heel";"pansement Gentle Border Heel";true;false
+"00602";"inj. oploss. oromuc./s.mucos. Zonder Vaatvernauwer [patr.]";"sol. inj. oromuq./s.muq. Sans Vasoconstricteur [cart.]";true;false
+"00603";"inj. oploss. s.mucos. Normal [patr.]";"sol. inj. s.muq. Normal [cart.]";true;false
+"00604";"inj. oploss. s.mucos. Special [patr.]";"sol. inj. s.muq. Special [cart.]";true;false
+"00605";"inj. oploss. s.mucos. [patr.]";"sol. inj. s.muq. [cart.]";true;false
+"00606";"verband Adhesive";"pansement Adhesive";true;false
+"00607";"inj. oploss. oromuc./s.mucos. [patr.]";"sol. inj. oromuq./s.muq. [cart.]";true;false
+"00608";"inj. oploss. dent. [patr.]";"sol. inj. dent. [cart.]";true;false
+"00609";"ocul. druppels oploss. (unidose)";"collyre sol. (unidose)";true;false
+"00610";"verband Life";"pansement Life";true;false
+"00611";"orofar. zuigtabl. (zonder suiker) Suikervrij";"past. orophar. (sans sucre) Sans Sucre";true;false
+"00612";"verband Life Sacrum";"pansement Life Sacrum";true;false
+"00613";"verband Life Heel";"pansement Life Heel";true;false
+"00614";"verband Non-adhesive";"pansement Non-adhesive";true;false
+"00615";"verband Adhesive Sacrum";"pansement Adhesive Sacrum";true;false
+"00616";"verband Klevend";"pansement Adhésif";true;false
+"00617";"verband Niet-klevend";"pansement Non adhésif";true;false
+"00618";"verband Soft Hold";"pansement Soft Hold";true;false
+"00619";"verband Hiel";"pansement Talon";true;false
+"00620";"verband Border Lite";"pansement Border Lite";true;false
+"00621";"verband Heel";"pansement Heel";true;false
+"00622";"verband Adhesive [Ovaal]";"pansement Adhesive [Ovale]";true;false
+"00623";"verband Adhesive hiel [Rond]";"pansement Adhesive talon [Rond]";true;false
+"00624";"inf. oploss. (conc.) i.m./i.v. [amp.]";"sol. perf. à diluer i.m./i.v. [amp.]";true;false
+"00625";"gingiv./oromuc. gel";"gel gingiv./oromuq.";true;false
+"00626";"gingiv./oromuc. geïmpr. wattenschijfjes Pellets";"tampon impr. gingiv./oromuq. Pellets";true;false
+"00627";"gingiv./oromuc. spray oploss. (alc.)";"sol. spray gingiv./oromuq. (alc.)";true;false
+"00628";"oploss. [doseerpomp]";"sol. [pompe dos.]";true;false
+"00629";"auric. druppels oploss. (unidose)";"gtts sol. (unidose) auric.";true;false
+"00630";"verband Border [Driehoekig]";"pansement Border [Triangle]";true;false
+"00631";"verband Contour";"pansement Contour";true;false
+"00632";"verband Transparent Postoperatief";"pansement Transparent Post-opératoire";true;false
+"00633";"verband Zelfklevend";"pansement Auto-adhésif";true;false
+"00634";"maagsapresist. gran.";"gran. gastro-résist.";true;false
+"00635";"inj./inf. oploss. s.c. [amp.]";"sol. inj./perf. s.c. [amp.]";true;false
+"00636";"inj. oploss. s.c. [patr.] voor Ovaleap Pen";"sol. inj. s.c. [cart.] pour Ovaleap Pen";true;false
+"00637";"rect. schuim";"mousse rect.";true;false
+"00638";"i.epiderm. oploss. voor huidpriktest [flac.]";"sol. pour prick-test i.épiderm. [flac.]";true;false
+"00639";"zeep (unidose)";"savon (unidose)";true;false
+"00640";"kauwtabl. (deelb.)";"compr. à croquer (séc.)";true;false
+"00641";"verband Island";"pansement Island";true;false
+"00642";"verband Rol";"pansement Rouleau";true;false
+"00643";"verband Tracheo";"pansement Trachéo-fenestré";true;false
+"00644";"gingiv./oromuc. gel Volwassenen";"gel gingiv./oromuq. Adulte";true;false
+"00645";"gingiv./oromuc. gel Kinderen";"gel gingiv./oromuq. Enfants";true;false
+"00646";"bruisgran. (zakjes) Forte Citron";"gran. efferv. (sachet) Forte Citron";true;false
+"00647";"p.odont. gel (patr.)";"gel p.odont. (cart.)";true;false
+"00648";"cut. oploss. (alc.)";"sol. cut. (alc.)";true;false
+"00649";"inf. oploss. (conc.) i.v. (alc.) [amp.]";"sol. perf. à diluer i.v. (alc.) [amp.]";true;false
+"00650";"inf. emuls. i.v. [flac.]";"émuls. perf. i.v. [flac.]";true;false
+"00651";"inj. oploss. s.c. Sureclick [voorgev. pen]";"sol. inj. s.c. Sureclick [stylo prérempli]";true;false
+"00652";"bucc. spray oploss.";"sol. spray bucc.";true;false
+"00653";"transderm. spray oploss. (doseerpomp)";"sol. spray transderm. (pompe doseuse)";true;false
+"00654";"inj. oploss. i.camer. [amp.]";"sol. inj. i.camér. [amp.]";true;false
+"00655";"gel (pomp) Forte";"gel (pompe) Forte";true;false
+"00656";"oploss. (unidose) Junior";"sol. (unidose) Junior";true;false
+"00657";"verband Heel Border";"pansement Heel Border";true;false
+"00658";"gastr./or. oploss.";"sol. gastr./or.";true;false
+"00659";"inj. susp. verl. afgifte i.m./i.derm./i.artic./i.laes./i.burs./p.artic. Chronodose [flac.]";"susp. inj. lib. prol. i.m./i.derm./i.artic./i.lés./i.burs./p.artic. Chronodose [flac.]";true;false
+"00660";"susp. [voorgev. applicator]";"susp. [applic. prérempli]";true;false
+"00661";"susp. [tube]";"susp. [tube]";true;false
+"00662";"inf. oploss. (pdr. + solv.) i.v. [3x flac., thermostabiele formule]";"sol. perf. (pdr + solv.) i.v. [3x flac., formule thermostable]";true;false
+"00663";"harde caps. geregul. afgifte Forte";"gél. lib. modif. Forte";true;false
+"00664";"nas. druppels oploss. Sine Conservans Baby";"gtts sol. nas. Sine Conservans Bébé";true;false
+"00665";"nas. spray oploss. Sine Conservans";"sol. spray nas. Sine Conservans";true;false
+"00666";"nas. spray oploss. Sine Conservans Pediatrie";"sol. spray nas. Sine Conservans Pediatrie";true;false
+"00667";"cut. oploss. (pdr. + solv.)";"sol. (pdr + solv.) cut.";true;false
+"00668";"rect. susp. (tabl.) Enema";"susp. rect. (compr.) Enema";true;false
+"00669";"urethr. crème (unidose)";"crème urétr. (unidose)";true;false
+"00670";"nas. spray oploss. (unidose)";"sol. spray (unidose) nas.";true;false
+"00671";"inj. oploss. verl. afgifte (pdr. + solv.) s.c. [2x voorgev. spuit]";"sol. inj. lib. prol. (pdr + solv.) s.c. [2x ser. préremplie]";true;false
+"00672";"inj. oploss. (pdr.) i.m./s.c./i.derm. [flac.]";"sol. inj. (pdr) i.m./s.c./i.derm. [flac.]";true;false
+"00673";"weefsellijm (oploss.) [voorgev. spuit]";"colle (sol.) [ser. préremplie]";true;false
+"00674";"oploss. (pdr.)";"sol. (pdr)";true;false
+"00675";"inj. oploss. i.m./s.c./i.derm. [amp.]";"sol. inj. i.m./s.c./i.derm. [amp.]";true;false
+"00676";"inj. oploss. s.c./i.derm./s.mucos. [voorgev. spuit, locoregionale infiltr.]";"sol. inj. s.c./i.derm./s.muq. [ser. préremplie, infiltr. locorégionale]";true;false
+"00677";"siroop oploss. Kinderen";"sirop sol. Enfants";true;false
+"00678";"dosisaerosol susp. Aerosphere";"susp. inhal. (flacon press.) Aerosphere";true;false
+"00679";"susp. (gran.)";"susp. (gran.)";true;false
+"00680";"inj. oploss. (pdr. + solv.) i.m. [flac. + amp.]";"sol. inj. (pdr + solv.) i.m. [flac. + amp.]";true;false
+"00681";"transderm. gel (zakjes)";"gel (sachet) transderm.";true;false
+"00682";"ocul. druppels oploss. (unidose) EDO [zonder bew.]";"collyre sol. (unidose) EDO [sans cons.]";true;false
+"00683";"ocul. gel (unidose) [zonder bew.]";"gel (unidose) opht. [sans cons.]";true;false
+"00684";"ocul. druppels oploss. (unidose) Unidose [zonder bew.]";"collyre sol. (unidose) Unidose [sans cons.]";true;false
+"00685";"inj./inf. oploss. i.m./i.v./s.c./i.thec./epidur. [amp.]";"sol. inj./perf. i.m./i.v./s.c./i.théc./p.dural [amp.]";true;false
+"00686";"transderm. lok. gel (doseerpomp)";"gel transderm. local (pompe doseuse)";true;false
+"00687";"inj./inf./instill. oploss. i.m./i.v./i.artic./i.thec./i.pleur. [flac.]";"sol. inj./perf./instill. i.m./i.v./i.artic./i.théc./i.pleur. [flac.]";true;false
+"00688";"orofar. spray oploss. Kers en Munt";"sol. spray orophar. Cerise et Menthe";true;false
+"00689";"inj./inf. oploss. epidur./p.neur. [flac., locoregionale infiltr.]";"sol. inj./perf. p.dural/p.neur. [flac., infiltr. locorégionale]";true;false
+"00690";"orofar. zuigtabl. Suikervrij Muntsmaak";"past. orophar. Sans sucre goût Menthe";true;false
+"00691";"transderm. pleister Clear";"dispositif transderm. Clear";true;false
+"00692";"oromuc. zuigtabl. Minilozenge";"compr. à sucer oromuq. Minilozenge";true;false
+"00693";"inj. oploss. s.c. ClickJect [voorgev. pen]";"sol. inj. s.c. ClickJect [stylo prérempli]";true;false
+"00694";"epilaes. medic. spons";"éponge médic. épilés.";true;false
+"00695";"inj./inf./instill. oploss. (pdr.) i.v./i.vesic. [flac.]";"sol. inj./perf./instill. (pdr) i.v./i.vésic. [flac.]";true;false
+"00696";"inf./drinkb. oploss. i.v./or. [amp.]";"sol. perf./buv. i.v./or. [amp.]";true;false
+"00697";"bucc. oploss. [voorgev. spuit]";"sol. bucc. [ser. préremplie]";true;false
+"00698";"cut./or. oploss. (tabl.)";"sol. (compr.) cut./or.";true;false
+"00699";"cut./or. oploss. (pdr.)";"sol. (pdr) cut./or.";true;false
+"00700";"implantatiesusp. i.artic. [voorgev. applicator]";"susp. implant. i.artic. [applic. prérempli]";true;false
+"00701";"implantatiesusp. i.artic. [voorgev. spuit]";"susp. implant. i.artic. [ser. préremplie]";true;false
+"00702";"inhalatiepdr. [Nexthaler]";"poudre inhal. [Nexthaler]";true;false
+"00703";"inhalatiepdr. Nexthaler";"poudre inhal. Nexthaler";true;false
+"00704";"inhalatiepdr. (harde caps.) [Turbospin]";"poudre inhal. (gél.) [Turbospin]";true;false
+"00705";"inhalatiepdr. Turbohaler";"poudre inhal. Turbohaler";true;false
+"00706";"inhalatiepdr. Forte Turbohaler";"poudre inhal. Forte Turbohaler";true;false
+"00707";"inhalatiepdr. Genuair";"poudre inhal. Genuair";true;false
+"00708";"inhalatiepdr. (harde caps.) Podhaler";"poudre inhal. (gél.) Podhaler";true;false
+"00709";"tabl. Minor";"compr. Minor";true;false
+"00710";"bruistabl. (deelb.) Forte";"compr. efferv. (séc.) Forte";true;false
+"00711";"intest. gel";"gel intest.";true;false
+"00712";"intest. gel [patr.]";"gel intest. [cart.]";true;false
+"00713";"inj. susp. (pdr. + solv.) i.v. [flac. + voorgev. spuit]";"susp. inj. (pdr + solv.) i.v. [flac. + ser. préremplie]";true;false
+"00714";"gastr./or. siroop oploss. (pdr.)";"sirop sol. (pdr) gastr./or.";true;false
+"00715";"gastr./or. susp. (gran.)";"susp. (gran.) gastr./or.";true;false
+"00716";"crème Lipocrème";"crème Lipocrème";true;false
+"00717";"cut. emuls. Crelo";"émuls. cut. Crelo";true;false
+"00718";"subling. orodisp. tabl.";"compr. orodisp. subling.";true;false
+"00719";"omh. gran. (zakjes)";"gran. enr. (sachet)";true;false
+"00720";"kauwtabl. D3 Citroen";"compr. à croquer D3 Citron";true;false
+"00721";"harde caps. geregul. afgifte Modified Release";"gél. lib. modif. Modified Release";true;false
+"00722";"inj. oploss. (pdr. + solv.) s.c. GoQuick [voorgev. pen]";"sol. inj. (pdr + solv.) s.c. GoQuick [stylo prérempli]";true;false
+"00723";"tabl. + filmomh. tabl.";"compr. + compr. pellic.";true;false
+"00724";"inj. oploss. (pdr. + solv.) i.m./s.c. [flac. + amp.]";"sol. inj. (pdr + solv.) i.m./s.c. [flac. + amp.]";true;false
+"00725";"inj. oploss. (pdr. + solv.) i.m. IM Lidocaïne [flac. + amp.]";"sol. inj. (pdr + solv.) i.m. IM Lidocaïne [flac. + amp.]";true;false
+"00726";"inj. oploss. i.artic./epidur./p.neur. [flac., locoregionale infiltr.]";"sol. inj. i.artic./p.dural/p.neur. [flac., infiltr. locorégionale]";true;false
+"00727";"verneveldisp. Liposomaal [flac.]";"disp. inhal. nébul. Liposomal [flac.]";true;false
+"00728";"filmomh. tabl. (deelb.) Fasttabs";"compr. pellic. (séc.) Fasttabs";true;false
+"00729";"gran. (zakjes) Instant Forte Cappuccino";"gran. (sachet) Instant Forte Cappuccino";true;false
+"00730";"siroop oploss. (zonder suiker) Junior";"sirop sol. (sans sucre) Junior";true;false
+"00731";"lyofilisaat";"lyophilisat";true;false
+"00732";"orofar. zuigtabl. Suikervrij Sinaasappelsmaak";"past. orophar. Sans sucre goût Orange";true;false
+"00733";"granules";"granules";true;false
+"00734";"zetpil Zuigelingen";"supp. Bébés";true;false
+"00735";"inf. susp. (pdr.) i.v. [flac.]";"susp. perf. (pdr) i.v. [flac.]";true;false
+"00736";"subling. tabl. (applic.)";"compr. subling. (applic.)";true;false
+"00737";"zetpil Volwassenen";"supp. Adultes";true;false
+"00738";"inj. oploss./inj. oploss. (conc.) i.m./i.v. [amp.]";"sol. inj./sol. inj. à diluer i.m./i.v. [amp.]";true;false
+"00739";"inj. susp. i.laes. [flac.]";"susp. inj. i.lés. [flac.]";true;false
+"00740";"inj. oploss. (conc. + solv.) s.retin. [3x flac.]";"sol. inj. (sol. à diluer + solv.) s.rétin. [3x flac.]";true;false
+"00741";"nas. poeder (unidose)";"poudre (unidose) nas.";true;false
+"00742";"verband [Rond]";"pansement [Rond]";true;false
+"00743";"inj. oploss./inf. oploss. (conc.) i.m./i.v./s.c. [amp.]";"sol. inj./sol. perf. à diluer i.m./i.v./s.c. [amp.]";true;false
+"00744";"zalf (zakjes)";"pommade (sachet)";true;false
+"00745";"eq. levend weefsel implant.";"substitut de tissu vivant implant.";true;false
+"00746";"inj. oploss. s.c. DoubleStar [voorgev. pen]";"sol. inj. s.c. DoubleStar [stylo prérempli]";true;false
+"00747";"inj. susp. verl. afgifte (pdr. + solv.) i.m. [2x flac.]";"susp. inj. lib. prol. (pdr + solv.) i.m. [2x flac.]";true;false
+"00748";"inf. oploss. conc. (pdr.) i.v. Liposomal [flac.]";"sol. perf. à diluer (pdr) i.v. Liposomal [flac.]";true;false
+"00749";"zalf + vag. tabl.";"pommade + compr. vag.";true;false
+"00750";"inj. oploss. s.c. [patr.] voor Smartclic";"sol. inj. s.c. [cart.] pour Smartclic";true;false
+"00751";"inj./inf. oploss. (conc.) i.m./i.v./i.thec./i.arter./i.ventr. [flac.]";"sol. inj./perf. à diluer i.m./i.v./i.théc./i.artér./i.ventr. [flac.]";true;false
+"00752";"inf. oploss. s.c. [flac.]";"sol. perf. s.c. [flac.]";true;false
+"00753";"vag. oploss. Unigyn";"sol. vag. Unigyn";true;false
+"00754";"vag. oploss. Gynecologie";"sol. vag. Gynécologie";true;false
+"00755";"ocul. spoeloploss. [zonder bew.]";"sol. irrig. opht. [sans cons.]";true;false
+"00756";"gorgeldrank/mondspoeling Mondwater";"gargarisme/bain de bouche Buccale";true;false
+"00757";"cut. oploss. Dermicum";"sol. cut. Dermique";true;false
+"00758";"geïmpr. verbandgaas Tule";"compresse impr. Tulle";true;false
+"00759";"zeep Germicide";"savon Germicide";true;false
+"00760";"zeep (unidose) Uniwash";"savon (unidose) Uniwash";true;false
+"00761";"verband Non-adhesive Heel";"pansement Non-adhesive Heel";true;false
+"00762";"inj. /inf. disp. i.v. [flac.]";"disp. inj./perf. i.v. [flac.]";true;false
+"00763";"verband Tracheostomy";"pansement Tracheostomy";true;false
+"00764";"verband Border Flex";"pansement Border Flex";true;false
+"00765";"verband Extra";"pansement Extra";true;false
+"00766";"inj. oploss./inf. oploss. conc. (pdr) i.m./i.v. [flac.]";"sol. inj./sol. perf. à diluer (pdr) i.m./i.v. [flac.]";true;false
+"00767";"verband Border Flex Lite";"pansement Border Flex Lite";true;false
+"00768";"verband One";"pansement One";true;false
+"00769";"gran. (zakjes) Instant Rode vruchten";"gran. (sachet) Instant Fruits rouges";true;false
+"00770";"verband Comfort";"pansement Comfort";true;false
+"00771";"gran. (zakjes) Instant Junior Aardbei";"gran. (sachet) Instant Junior Fraise";true;false
+"00772";"gran. (zakjes) Instant Forte Rode vruchten";"gran. (sachet) Instant Forte Fruits rouges";true;false
+"00773";"tabl. Mitis";"compr. Mitis";true;false
+"00774";"inj. disp. i.m. [flac.]";"disp. inj. i.m. [flac.]";true;false
+"00775";"inj. disp. (conc.) i.m. [flac.]";"disp. inj. à diluer i.m. [flac.]";true;false
+"00776";"inj. oploss. i.artic. [flac.]";"sol. inj. i.artic. [flac.]";true;false
+"00777";"inj. emuls. i.m. [flac.]";"émuls. inj. i.m. [flac.]";true;false
+"00778";"cut. oploss. (unidose) (alc.) Hydroalcoholische";"sol. (unidose) cut. (alc.) Hydroalcoolique";true;false
+"00779";"inj. susp. verl. afgifte (pdr. + solv.) i.m. [flac. + voorgev. spuit]";"susp. inj. lib. prol. (pdr + solv.) i.m. [flac. + ser. préremplie]";true;false
+"00780";"inj. oploss. s.c. [patr., on-body injector]";"sol. inj. s.c. [cart., injecteur corporel]";true;false
+"00781";"cut. oploss. (unidose) Dermicum";"sol. (unidose) cut. Dermique";true;false
+"00782";"inj. oploss. i.m./s.c./i.derm./i.artic. [amp.]";"sol. inj. i.m./s.c./i.derm./i.artic. [amp.]";true;false
+"00783";"orodisp. film";"film orodisp.";true;false
+"00784";"transderm. lok. geïmpr. verbandgaas";"compresse impr. transderm. local";true;false
+"00785";"inj. oploss. s.c. [patr., voor Glaxopen]";"sol. inj. s.c. [cart., pour Glaxopen]";true;false
+"00786";"inf. oploss. i.putam. [flac.]";"sol. perf. i.putam. [flac.]";true;false
+"00787";"tabl. verl. afgifte (deelb.) Retard Divitabs";"compr. lib. prol. (séc.) Retard Divitabs";true;false
+"00788";"bruistabl. (deelb.) Dryfiz";"compr. efferv. (séc.) Dryfiz";true;false
+"00789";"kauwtabl. (deelb.) Forte Orange";"compr. à croquer (séc.) Forte Orange";true;false
+"00790";"inj. oploss. i.m. Ultra-Filtered PLUS [voorgev. spuit]";"sol. inj. i.m. Ultra-Filtered PLUS [ser. préremplie]";true;false
+"00791";"oplosb. tabl. (deelb.)";"compr. sol. (séc.)";true;false
+"00792";"tabl. verl. afgifte (deelb.) L.A.";"compr. lib. prol. (séc.) L.A.";true;false
+"00793";"tabl. verl. afgifte (deelb.) Retard 300";"compr. lib. prol. (séc.) Retard 300";true;false
+"00794";"tabl. verl. afgifte (deelb.) Retard 500";"compr. lib. prol. (séc.) Retard 500";true;false
+"00795";"or./subling. tabl. (deelb.)";"compr. or./subling. (séc.)";true;false
+"00796";"disp. maagsapresist. tabl. (deelb.) Mups";"compr. gastro-résist. disp. (séc.) Mups";true;false
+"00797";"filmomh. tabl. (deelb.) Mitis";"compr. pellic. (séc.) Mitis";true;false
+"00798";"tabl. verl. afgifte (deelb.) Chrono 300";"compr. lib. prol. (séc.) Chrono 300";true;false
+"00799";"inj./inf. oploss. (pdr. + solv.) i.m./i.v. [flac. + amp.]";"sol. inj./perf. (pdr + solv.) i.m./i.v. [flac. + amp.]";true;false
+"00800";"susp. (gran. + solv.)";"susp. (gran. + solv.)";true;false
+"00801";"siroop susp. (zakjes) Antizuur-Antireflux Unidose";"sirop susp. (sachet) Antiacide-Antireflux Unidose";true;false
+"00802";"siroop susp. (zakjes) Advance Munt Unidose";"sirop susp. (sachet) Advance Menthe Unidose";true;false
+"00803";"siroop susp. Antizuur-Antireflux";"sirop susp. Antiacide-Antireflux";true;false
+"00804";"crème (doseerpomp)";"crème (pompe doseuse)";true;false
+"00805";"ocul. druppels oploss. [pomp, zonder bew.]";"collyre sol. [pompe, sans cons.]";true;false
+"00806";"siroop oploss. (zonder suiker) Eucalyptussmaak";"sirop sol. (sans sucre) Goût eucalyptus";true;false
+"00807";"susp. Zuigelingen en Kinderen";"susp. Nourrissons et Enfants";true;false
+"00808";"siroop oploss. (zonder suiker) Forte";"sirop sol. (sans sucre) Forte";true;false
+"00809";"siroop oploss. (zonder suiker) Volwassenen Zonder suiker";"sirop sol. (sans sucre) Adultes Sans sucre";true;false
+"00810";"siroop oploss. Honing & Citroen";"sirop sol. Miel & Citron";true;false
+"00811";"inj. oploss./inf. oploss. conc. (pdr) i.v. [flac.]";"sol. inj./sol. perf. à diluer (pdr) i.v. [flac.]";true;false
+"00812";"inj. susp. verl. afgifte (pdr. + solv.) i.m. Maintena [2x flac.]";"susp. inj. lib. prol. (pdr + solv.) i.m. Maintena [2x flac.]";true;false
+"00813";"gran. (caps. om te openen)";"gran. (gél. à ouvrir)";true;false
+"00814";"inj. oploss. (pdr. + solv.) i.m./s.c. [flac. + 2x voorgev. spuit]";"sol. inj. (pdr + solv.) i.m./s.c. [flac. + 2x ser. préremplie]";true;false
+"00815";"harde caps. Caps Forte";"gél. Caps Forte";true;false
+"00816";"inf. oploss. s.c. [flac.] voor Vyafuser";"sol. perf. s.c. [flac.] pour Vyafuser";true;false
+"00817";"inj. oploss. (conc.) s.c. [flac.]";"sol. inj. à diluer s.c. [flac.]";true;false
+"00818";"cut./or./oromuc. oploss./oploss. (conc.)";"sol./sol. à diluer cut./or./oromuq.";true;false
+"00819";"zuigtabl. (zonder suiker) Mint Zonder Suiker";"past. (sans sucre) Mint Sans Sucre";true;false
+"00820";"siroop susp. (zonder suiker) Rood Kinderen Suikervrij";"sirop susp. (sans sucre) Rouge Enfants Sans Sucre";true;false
+"00821";"siroop susp. (zonder suiker) Kinderen Suikervrij";"sirop susp. (sans sucre) Enfants Sans Sucre";true;false
+"00822";"inj. disp. (conc.) i.v. [flac.]";"disp. inj. à diluer i.v. [flac.]";true;false
+"00823";"inj. oploss. i.m. Junior [voorgev. pen]";"sol. inj. i.m. Junior [stylo prérempli]";true;false
+"00824";"inj./inf. oploss. i.v. [voorgev. spuit]";"sol. inj./perf. i.v. [ser. préremplie]";true;false
+"00825";"inj. emuls. i.v. [amp.]";"émuls. inj. i.v. [amp.]";true;false
